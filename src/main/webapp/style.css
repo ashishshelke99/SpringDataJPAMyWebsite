@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+	background-color: white;
+}
+
+#container { 
+	background-color: white;
+}
+
+#content {
+	text-align: center;
+}
